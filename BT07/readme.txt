@@ -7,7 +7,8 @@ Cau 2:
     Chi co lenh *p = 5;
     - k = 5; gán giá trị 5 cho biến k.
     - *k = 5; không hợp lệ vì k không phải là con trỏ.
-    - p = 5; gán giá trị 5 cho con trỏ p, nhưng đây là địa chỉ không hợp lệ, vì không có vùng nhớ nào được phân bổ cho giá trị 5.
+    - p = 5; gán giá trị 5 cho con trỏ p, nhưng đây là địa chỉ không hợp lệ, 
+    vì không có vùng nhớ nào được phân bổ cho giá trị 5.
 
 Cau 3: 
     a value of type "char *" cannot be used to initialize an entity of type "double *
